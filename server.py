@@ -5,7 +5,7 @@ import time
 import os
 
 
-hostName = "localhost"
+hostName = "0.0.0.0"
 serverPort = 80
 
 class MyServer(BaseHTTPRequestHandler):
